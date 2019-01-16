@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSearcher", "WebSearcher\WebSearcher.csproj", "{AC69E4F5-709E-4F2C-87D9-C89E9E9BB308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC69E4F5-709E-4F2C-87D9-C89E9E9BB308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC69E4F5-709E-4F2C-87D9-C89E9E9BB308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC69E4F5-709E-4F2C-87D9-C89E9E9BB308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC69E4F5-709E-4F2C-87D9-C89E9E9BB308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06BB358F-2284-4738-B7E8-581E7FF1CB19}
+	EndGlobalSection
+EndGlobal
